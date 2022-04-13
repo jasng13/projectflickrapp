@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickr App</string>
+    <string name="hint">Search for an image</string>
+    <string name="default_error_message">Something went wrong. Please try again later.</string>
+</resources>
