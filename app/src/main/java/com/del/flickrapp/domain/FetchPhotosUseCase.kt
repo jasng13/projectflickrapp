@@ -7,7 +7,7 @@ import com.del.flickrapp.utils.DataState
 import io.reactivex.Observable
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
-
+//todo: unable to implement, this should be used in the viewmodel instead
 class FetchPhotosUseCase(private val photoRepository: FlickrRepository) {
 
 //    suspend operator fun invoke(): DataState<PhotoApiResponse?> = withContext(Dispatchers.IO) {
